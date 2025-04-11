@@ -1,20 +1,21 @@
 
-OpenDocument="startup_stm32f103xb.s", FilePath="F:/bsp-stm32f103c8t6-blue_pill/board/startup_stm32f103xb.s", Line=57
+OpenDocument="startup_stm32f103xb.s", FilePath="F:/bsp-stm32f103c8t6-blue_pill/board/startup_stm32f103xb.s", Line=51
+OpenDocument="main.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/applications/main.c", Line=113
 OpenDocument="idle.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/rt-thread/src/idle.c", Line=136
 OpenDocument="board.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/board/board.c", Line=129
 OpenDocument="components.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/rt-thread/src/components.c", Line=233
 OpenDocument="core_cm3.h", FilePath="F:/bsp-stm32f103c8t6-blue_pill/board/stm_sdk/CMSIS/Include/core_cm3.h", Line=1633
 OpenDocument="kservice.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/rt-thread/src/kservice.c", Line=627
-OpenDocument="main.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/applications/main.c", Line=143
+OpenDocument="scheduler_up.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/rt-thread/src/scheduler_up.c", Line=0
 OpenDocument="defunct.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/rt-thread/src/defunct.c", Line=45
-OpenDocument="thread.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/rt-thread/src/thread.c", Line=522
+OpenDocument="thread.c", FilePath="F:/bsp-stm32f103c8t6-blue_pill/rt-thread/src/thread.c", Line=94
 OpenToolbar="Debug", Floating=0, x=0, y=0
-OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=2, w=835, h=115, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
-OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=4, w=835, h=121, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
-OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=3, w=835, h=153, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=2, w=835, h=114, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=4, w=835, h=120, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=3, w=835, h=148, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=822, h=359, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x0
-OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=835, h=102, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
-OpenWindow="Local Data", DockArea=RIGHT, x=0, y=1, w=835, h=71, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=835, h=103, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Local Data", DockArea=RIGHT, x=0, y=1, w=835, h=77, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=501, h=566, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=667, h=359, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[100;100;100;100;100;322]
